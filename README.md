@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="left">
+ Hola Devs!
+</h2>
+  <p align="center">
+  <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" alt="Lofi Coding GIF">
+</p>
+ <p>📍 I am Sagar Singhal, a pre-final year CSE student at SRM University, and I love working on full-stack and machine learning projects.<br>
+I enjoy learning new technologies and love sports as well.</p>
 
-<!--
-**sagarsinghal2806/sagarsinghal2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🔭 I’m working on building full-stack and machine learning projects.<br>
+🌱 I’m currently exploring advanced web development and AI concepts.<br>
+📫 Reach me @ sagarsinghal2806@gmail.com<br>
+⚡ Fun fact: I love sports as much as I love coding! 🏆💻</p>
+<br>
 
-Here are some ideas to get you started:
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarsinghal2806&theme=radical&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
