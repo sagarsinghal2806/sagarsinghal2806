@@ -12,8 +12,13 @@ I enjoy learning new technologies and love sports as well.</p>
 📫 Reach me @ sagarsinghal2806@gmail.com<br>
 ⚡ Fun fact: I love sports as much as I love coding! 🏆💻</p>
 <br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagarsinghal2806&theme=radical">
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagarsinghal2806&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarsinghal2806&theme=radical&show_icons=true">
+</div>
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarsinghal2806&theme=radical&show_icons=true)
 
 
- 
